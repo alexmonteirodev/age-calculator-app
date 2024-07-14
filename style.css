@@ -113,7 +113,7 @@ button{
         border: #151515;
         background-color: var(--white);
         width:90vw;
-        border-radius: 25px 25px 150px 25px;
+        border-radius: 25px 25px 120px 25px;
         margin: auto;
         box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.091);
     }
@@ -141,24 +141,24 @@ button{
         flex-direction: row;
         align-items: center;
         justify-content: center;
-        gap: 20px;
+        gap: 5px;
         margin: auto;
     }
     .textarea{
         border: 1px solid var(--inputcolor);
         border-radius: 5px;
         height: 60px;
-        width: 100px;
-        font-size: 2em;
+        width: 75px;
+        font-size: 1.5em;
         text-align: center;
         font-weight: bold;
         margin: auto;
     }
     .result{
-        font-size: 4em;
+        font-size: 2.5em;
     }
     .legendsresults{
-        font-size: 4em;
+        font-size: 2.5em;
     }
     #div3{
     margin: auto;
